@@ -1,0 +1,110 @@
+/*LOGIN*/
+.white{
+    color:#000;
+    background-color:#fff;
+}
+
+.login .btn-facebook {
+    color: #ffffff;
+    -webkit-text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    background-color: #2b4b90;
+    *background-color: #133783;
+    background-image: -moz-linear-gradient(top, #3b5998, #133783);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#3b5998), to(#133783));
+    background-image: -webkit-linear-gradient(top, #3b5998, #133783);
+    background-image: -o-linear-gradient(top, #3b5998, #133783);
+    background-image: linear-gradient(to bottom, #3b5998, #133783);
+    background-repeat: repeat-x;
+    border-color: #133783 #133783 #091b40;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3b5998', endColorstr='#ff133783', GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+}
+
+.login .btn-facebook:hover,
+.login .btn-facebook:focus,
+.login .btn-facebook:active,
+.login .btn-facebook.active,
+.login .btn-facebook.disabled,
+.login .btn-facebook[disabled] {
+    color: #ffffff;
+    background-color: #133783 !important;
+    *background-color: #102e6d !important;
+    }
+
+.login .btn-facebook:active,
+.login .btn-facebook.active {
+    background-color: #0d2456 \9 !important;
+}
+
+.login {
+	padding-top: 100px;
+}
+.top-login {
+	border-top: 3px solid #000;
+}
+.logo-login {
+	text-align: center;
+}
+.logo-login img {
+	width: 200px;
+}
+.btn-login {
+    background: #5293c1;
+    color: #FFFFFF;
+    border: none;
+    padding: 5px;
+    padding-left: 45%;
+    padding-right: 45%;
+    border-radius: 4px;
+    font-size: 14px;
+}
+/*FIN LOGIN*/
+
+
+/*ADMINISTRACION*/
+.employe-buttom {
+    display: inline-flex;
+    margin-bottom: 0;
+}
+.employe-buttom li {
+    padding-right: 10px;
+}
+.jefe {
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.trabajador{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.vertical-line{
+    border: 1px dashed #bababa;
+}
+.custom-panel {
+    background-image: none !important;
+}
+
+
+/*TAMAÑOS*/
+.height70 {
+    height: 70px;
+}
+.heigh20 {
+    height: 20px;
+}
+
+/*ALINEACIONES*/
+.valingmiddel {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+.centered {
+    text-align: center;
+}
+
+

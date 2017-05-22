@@ -1,2 +1,0 @@
-# PanelSepe
-Panel Dashboard Sepe
