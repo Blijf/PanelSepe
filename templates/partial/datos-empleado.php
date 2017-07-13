@@ -1,15 +1,17 @@
 <div id="content-equipo" class="col-sm-9 col-sm-offset-3">
-	<div class="col-xs-4 col-xs-offset-1" style="float: left;">
-		<h2>
+	<div class="col-xs-6 col-xs-offset-1" style="float: left;">
+		<h2 style="padding-top: 15px;">
 			<i class="fa fa-user" aria-hidden="true"></i> Jornada de {nombre}
 		</h2>
 	</div>
-	<div class="col-xs-5 col-xs-offset-2" style="float: left; padding-top: 20px;">
+	<div class="col-xs-4" style="float: left; padding-top: 20px; padding-bottom:5px; text-align: right;">
 		Desde 
 		<input type="date" name="fecha-desde">
+		<p></p>
 		Hasta 
 		<input type="date" name="fecha-hasta">
 	</div>
+	<div class="col-xs-1"></div>
 	<div class="equipo col-xs-10 col-xs-offset-1" style="padding-top: 20px;">
 		<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
 			<div class="panel panel-default">
@@ -263,6 +265,7 @@
 			</div>
 		</div>
 		<div class="form-group col-xs-12 col-sm-12 options-team-btn" style="text-align: right;">
+			<a href="" class="btn btn-custom">Texto</a>
 			<a href="" class="btn btn-custom">Exportar</a>
 		</div>
 	</div>

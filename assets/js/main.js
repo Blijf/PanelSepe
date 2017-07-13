@@ -20,14 +20,16 @@
 
     //Despedir empleado
     $(document).ready(function(e){
+        //Aviso decerrar sesion
         $(".session-close").click(function(){
             var strconfirm = confirm("¿{nombre} seguro que quieres desconectarte?");
             if (strconfirm == true) {
                 return true;
             }
         });
+        //Aviso decerrar sesion FINAL
 
-
+        //Despedir empleado
         $(".delete-employe").click(function(){
             $("#modal_confirm_other").removeClass("hidden");
         });
@@ -39,12 +41,11 @@
             $("#modal_confirm_other").addClass("hidden");
             //Code NO
         });
-    });
+        //Despedir empleado FINAL
 
 
 
 
-     $(document).ready(function(e) {
  $('#menu-topo').hide();
    var menuaberto = false;
   $('.btn-collapse').click(function(event) {
