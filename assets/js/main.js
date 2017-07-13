@@ -18,6 +18,31 @@
         });
     });
 
+    //Despedir empleado
+    /*$(document).ready(function(e){
+        $(".delete-employe").click(function(){
+            var strconfirm = confirm("¿Seguro que quieres despedir al {nombre}?");
+            if (strconfirm == true) {
+                return true;
+            }
+        });
+    });*/
+
+    $(document).ready(function(e){
+        $(".delete-employe").click(function(){
+            $("#modal_confirm_other").removeClass("hidden");
+        });
+        $("#btnYes").click(function(){
+            $("#modal_confirm_other").addClass("hidden");
+            //Code YES
+        });
+        $("#btnNo").click(function(){
+            $("#modal_confirm_other").addClass("hidden");
+            //Code NO
+        });
+    });
+
+
 
 
      $(document).ready(function(e) {

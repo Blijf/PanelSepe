@@ -108,3 +108,22 @@
 }
 
 
+
+#modal_confirm{
+    position: absolute;
+    width: 400px;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    top: 10px;
+    left: 50%;
+    margin-left: -50px;
+    background-color: white;
+    text-align: center;
+    border: 1px solid #000;
+}
+#modal_confirm_other{
+    position: relative;
+    width: 40%;
+    height: 120px;
+    margin: 20px auto;
+}

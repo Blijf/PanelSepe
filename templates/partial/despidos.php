@@ -32,7 +32,7 @@
 				<td>692338410</td>
 				<td>Jefe Diseño</td>
 				<td>Marketing</td>
-				<td><a href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
 			</tr>
 			<tr>
 				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
@@ -41,7 +41,7 @@
 				<td>692338410</td>
 				<td>Jefe Diseño</td>
 				<td>Marketing</td>
-				<td><a href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
 			</tr>
 			<tr>
 				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
@@ -50,7 +50,7 @@
 				<td>692338410</td>
 				<td>Jefe Diseño</td>
 				<td>Marketing</td>
-				<td><a href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
 			</tr>
 			<tr>
 				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
@@ -59,13 +59,188 @@
 				<td>692338410</td>
 				<td>Jefe Diseño</td>
 				<td>Marketing</td>
-				<td><a href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
+			</tr>
+			<tr>
+				<td><i class="fa fa-user-circle-o" aria-hidden="true" style="font-size: 25px;"></i></td>
+				<td>Jose Escribano Vegas</td>
+				<td>45286948X</td>
+				<td>692338410</td>
+				<td>Jefe Diseño</td>
+				<td>Marketing</td>
+				<td><a class="delete-employe" href="#"><i class="fa fa-minus" aria-hidden="true" style="font-size: 25px;"></i></a></td>
 			</tr>
 		</table>
-		
-
-
-
-
 	</div>
 </div>
+
+	<div id="modal_confirm_other" class="col-sm-offset-1 hidden">
+		<div id='modal_confirm'>
+		    <div class='title'>¿Estas seguro que quieres despedir a {employe}?</div>
+		    <br><br>
+		    <input type='button' value='Despedir' id='btnYes' />
+		    <input type='button' value='No Despedir' id='btnNo' />
+		</div>
+	</div>
