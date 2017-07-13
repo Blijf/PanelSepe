@@ -19,16 +19,15 @@
     });
 
     //Despedir empleado
-    /*$(document).ready(function(e){
-        $(".delete-employe").click(function(){
-            var strconfirm = confirm("¿Seguro que quieres despedir al {nombre}?");
+    $(document).ready(function(e){
+        $(".session-close").click(function(){
+            var strconfirm = confirm("¿{nombre} seguro que quieres desconectarte?");
             if (strconfirm == true) {
                 return true;
             }
         });
-    });*/
 
-    $(document).ready(function(e){
+
         $(".delete-employe").click(function(){
             $("#modal_confirm_other").removeClass("hidden");
         });

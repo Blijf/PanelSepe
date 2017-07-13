@@ -48,7 +48,7 @@
                           <li>FAQ - Contacto</li>
                         </a>
                     </ul>
-                    <li>
+                    <li class="session-close">
                         <a href="#">
                             <i class="fa fa-power-off fa-lg"></i> SALIR
                         </a>
